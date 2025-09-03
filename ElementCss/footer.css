@@ -1,0 +1,48 @@
+footer {
+    width: 100%;
+    background-color: #393E46;
+    height: auto;
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-size:18px;
+}
+
+footer .footatas {
+    margin-top: 30px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+footer .elemt1 {width: 25%;}
+footer .elemt1 h4 {font-weight: 300;}
+
+footer .daftarquict {
+    display: flex;
+    flex-direction: column;
+}
+
+footer .daftarquict h3 {text-align: left;}
+
+footer .footbawah {
+    margin-top: 30px;
+    width: 100%;
+    height: 4rem;
+    background-color: #222831;
+}
+
+footer .footbawah h1 {
+    font-size: 18px;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer .footbawah h1 {font-weight: 300;}
