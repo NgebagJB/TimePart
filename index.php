@@ -3,7 +3,7 @@
     <?php include "Component/Header.php" ?>
 <body>
     <?php include "Component/Navbar.php" ?>
-    <?php include "View/Home.php" ?>
+    <?php include "Pages/Home.php" ?>
     <?php include "Component/Footer.php" ?>
     <?php include "Route/Web.php" ?>
 
